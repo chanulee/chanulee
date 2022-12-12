@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanulee from S. Korea!
 - 👀 I’m interested in new media design, art and engineering.
-- 🌱 I’m currently learning BAS in [Art & Technology](http://creative.sogang.ac.kr) at Sogang University.
+- 🌱 I’m currently studtying [Art & Technology](http://creative.sogang.ac.kr) (BAS) at Sogang University.
 - 📫 Take a look at [my website](https://chanulee.github.io) or you can [mail](mailto:hellochanu@gmail.com) me.
 
 <!---

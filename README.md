@@ -11,3 +11,8 @@ HCI researcher / design engineer at Imperial College London and Royal College of
 - [simpleNodeSerial](https://github.com/chanulee/simpleNodeSerial)
 - [simpleBLE](https://github.com/chanulee/simpleBLE)
 - [simple-thesis-typst](https://github.com/chanulee/simple-thesis-typst)
+
+### Interactions
+- [dynamictext](https://github.com/chanulee/dynamictext)
+- [CinemaFlix](https://github.com/chanulee/CinemaFlix)
+- [HapGrab](https://github.com/chanulee/hapgrab)

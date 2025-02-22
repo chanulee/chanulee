@@ -1,6 +1,5 @@
 ## Hi, This is Chanwoo!
 HCI researcher / design engineer at Imperial College London and Royal College of Art  
-[website](https://chanulee.github.io) / [LinkedIn](https://www.linkedin.com/in/chanulee/) / [bluesky](https://bsky.app/profile/chanwoolee.bsky.social) / [twitter](https://x.com/chnwlee) / 📫 [chanwoo.lee@imperial.ac.uk](mailto:chanwoo.lee@imperial.ac.uk)
 
 ## Area of Interest
 ### Local LLMs

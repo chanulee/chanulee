@@ -1,7 +1,3 @@
-## Hi, This is Chanwoo!
-Human-Centred Computing and HCI at Imperial College London and Royal College of Art  
-
-## Area of Interest
 ### Local LLMs
 - [coreOllama](https://github.com/chanulee/coreOllama)
 - [everychat](https://github.com/chanulee/everychat)

@@ -7,12 +7,10 @@ Human-Centred Computing and HCI at Imperial College London and Royal College of 
 - [everychat](https://github.com/chanulee/everychat)
 - [persona-studio](https://github.com/chanulee/persona-studio)
 
-### OpenSimples
-- [simpleNodeSerial](https://github.com/chanulee/simpleNodeSerial)
-- [simpleBLE](https://github.com/chanulee/simpleBLE)
-- [simple-thesis-typst](https://github.com/chanulee/simple-thesis-typst)
-
 ### Interactions
 - [dynamictext](https://github.com/chanulee/dynamictext)
 - [CinemaFlix](https://github.com/chanulee/CinemaFlix)
 - [HapGrab](https://github.com/chanulee/hapgrab)
+
+### Open-Simples
+I also maintain some basic blocks for creative projects here at [Open-Simples](https://github.com/open-simples)
